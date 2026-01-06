@@ -1,4 +1,4 @@
-package basics;
+
 //program to check if last digit of a number is even or odd
 
 import java.util.Scanner;
